@@ -3,15 +3,15 @@
 
 ## İçindekiler
 
--   [Giriş](https://)
--   [Tanım](https://)
--   [Amaç](https://)
--   [Kapsam](https://)
--   [Dayanak](https://)
--   [Kullanım Şartları](https://)
--   [Görsel Bütünlük](https://)
--   [Purgatoria Marka Unsurları](https://)
--   [Topluluk Katkıları](https://)
+-   [Giriş](https://github.com/Purgatoria/branding#giri%C5%9F)
+-   [Tanım](https://github.com/Purgatoria/branding#tan%C4%B1m)
+-   [Amaç](https://github.com/Purgatoria/branding#ama%C3%A7)
+-   [Kapsam](https://github.com/Purgatoria/branding#kapsam)
+-   [Dayanak](https://github.com/Purgatoria/branding#dayanak)
+-   [Kullanım Şartları](https://github.com/Purgatoria/branding#kullan%C4%B1m-%C5%9Fartlar%C4%B1)
+-   [Görsel Bütünlük](https://github.com/Purgatoria/branding#g%C3%B6rsel-b%C3%BCt%C3%BCnl%C3%BCk)
+-   [Purgatoria Marka Unsurları](https://github.com/Purgatoria/branding#purgatoria-marka-unsurlar%C4%B1)
+-   [Topluluk Katkıları](https://github.com/Purgatoria/branding#topluluk-katk%C4%B1lar%C4%B1)
 
 
 ## Giriş
