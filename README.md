@@ -149,6 +149,8 @@ Bunun yanında işbu kişilik, zaman içerisinde markalar için bir öz denetim 
 - İncelik
 - Sağlamlık
 
+<img width="1810" height="630" alt="purgatoria_marka_kisiligi" src="https://github.com/user-attachments/assets/ca9d2f00-c7b7-479c-8a2a-ef95bd3e8be5" />
+
 **Purgatoria Marka Kişiliği:** Google, Microsoft, Apple, Amazon gibi markalarla aynı şekilde "Yetkinlik" boyutu üzerinden değerlendirilebilecek Purgatoria Topluluğu; araştırmayı seven, disiplinli, bağımsız düşünen ve üretken bir topluluk karakterine sahiptir. 
 Purgatoria Topluluğu'nda modern ağ teknolojileri, açık kaynak kültürü ve siber güvenlik farkındalığı ile birleştirilir, basitleştirilerek herkes tarafından anlaşılır hale gelmesi hedeflenir. 
 Purgatoria Topluluğu'nda ciddi konular ele alınırken kimse resmiyete boğulmaz; belirli bir mizahi bakış açısı çerçevesinde yüksek önem arz eden görevler hep birlikte tamamlanır.
@@ -216,6 +218,8 @@ Her arketip, belirli bir duygusal alan ve motivasyon kümesiyle ilişkilidir.
 - Bakıcı
 - Yaratıcı
 - Hükümdar
+
+<img width="1810" height="630" alt="purgatoria_marka_arketipi" src="https://github.com/user-attachments/assets/7fa94164-43bb-4073-80e7-9e20c0d2f32a" />
 
 **Purgatoria Marka Arketipi:** Purgatoria Marka Arketipi, topluluğun doğasından kaynaklı Bilge ve Yaratıcı arketiplerinin ağırlıkta olduğu ve pek çok arketipin belirli oranlarda özelliklerini gösterdiği bir birleşimdir.
 İşbu arketiplerin birleşiminde Purgatoria; hem tasarlayan hem üreten, hem öğrenen hem de öğreten bir marka kimliği kazanır.
